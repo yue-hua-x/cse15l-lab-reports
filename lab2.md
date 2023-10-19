@@ -36,5 +36,11 @@ class StringServer {
     }
 }
 ```
+
+
 # Part 2
+private key path:
+public key path: 
+![successful ssh!](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/61f6c2a0-b7bb-4809-a265-bf24d40f3bc0)
 # Part 3
+I didn't know there was a way to automatically log in when `ssh`-ing. It 
