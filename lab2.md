@@ -48,7 +48,7 @@ so, unexpected result. maybe a result of using firefox? who knows. `handleReques
 ## 3. adding 'how are you' (part 2, electric boogaloo)
 ![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/3f5f0173-08e8-4931-9d56-70d39b78aba8)\
 after a bit of cursory googling, i went and replaced all of my spaces with `%C2%A0`. not sure why it works, but it does?
-``
+
 # Part 2
 private key path: `/home/yuehua/.ssh/id_rsa.pub`\
 public key path: `/home/linux/ieng6/cs15lfa23/cs15lfa23hg/.ssh/authorized_keys`\
