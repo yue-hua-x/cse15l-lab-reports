@@ -49,9 +49,9 @@ so, unexpected result. maybe a result of using firefox? who knows. `handleReques
 ![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/3f5f0173-08e8-4931-9d56-70d39b78aba8)\
 after a bit of cursory googling, i went and replaced all of my spaces with `%C2%A0`. not sure why it works, but it does?
 
-# Part 2
+# Part 2: ssh (but cooler???)
 private key path: `/home/yuehua/.ssh/id_rsa.pub`\
 public key path: `/home/linux/ieng6/cs15lfa23/cs15lfa23hg/.ssh/authorized_keys`\
 ![successful ssh!](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/61f6c2a0-b7bb-4809-a265-bf24d40f3bc0)
-# Part 3
+# Part 3: in summary, there is no intellectual curiosity in this noggin of mine
 I didn't know there was a way to automatically log in when `ssh`-ing. It makes sense, since constantly sending passwords back and forth doesn't sound like good security, and on an intellectual level I guess I would've been more surprised to learn that there *wasn't* a way to automatically log in, but I just didn't know or bother to find out.
