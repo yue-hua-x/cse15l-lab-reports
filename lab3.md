@@ -42,3 +42,6 @@ static int[] reversed(int[] arr) {
   }
 ```
 # part 2: researching `find`
+for all of these examples, i just used the [man page](https://man7.org/linux/man-pages/man1/find.1.html).  
+## option 1: `-path`
+the `-path` option finds all files such that the path of the file matches the pattern passed after `-path`.
