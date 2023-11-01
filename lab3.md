@@ -43,5 +43,15 @@ static int[] reversed(int[] arr) {
 ```
 # part 2: researching `find`
 for all of these examples, i just used the [man page](https://man7.org/linux/man-pages/man1/find.1.html).  
-## option 1: `-path`
-the `-path` option finds all files such that the path of the file matches the pattern passed after `-path`.
+filetree that i'll be using find on:
+## option 1: `-ipath pattern`
+the `-ipath` option finds all files such that the path of the file matches the pattern passed after `-path`, case insensitive.
+
+## option 2: `-ls`
+the `-ls` option prints all files in `ls -dils`
+
+## option 3: `-maxdepth n`
+the `-maxdepth n` option only traverses through a certain number of levels, so that directories deeper than a certain depth
+
+## option 4: `-newer reference`
+the `-newer` option finds all files that were modified after the reference file.
