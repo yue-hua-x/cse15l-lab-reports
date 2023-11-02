@@ -1,5 +1,5 @@
 # part 1: bugs 🐞
-bug: `ArrayExamples reversed`  returns an array full of zeroes instead of the reversed array. this is because instead of copying from the given array (`arr`) to the empty array (`newArray`), we copy from the empty array to the given array (resulting in copying over a bunch of zeroes) and return the zeroed out array `arr`. to fix this, we copy from `arr` to `newArray` and return `newArray`.
+bug: `ArrayExamples reversed`  returns an array full of zeroes instead of the reversed array. this is because instead of copying from the given array (`arr`) to the empty array (`newArray`), we copy from the empty array to the given array (resulting in copying over a bunch of zeroes) and return the zeroed out array `arr`. to fix this, we copy from `arr` to `newArray` and return `newArray`.  
 failure inducing input:
 ```
   @Test
@@ -41,9 +41,8 @@ static int[] reversed(int[] arr) {
     return newArray;
   }
 ```
-# part 2: researching `find`
+# part 2: researching `find` 🔎
 for all of these examples, i just used the [man page](https://man7.org/linux/man-pages/man1/find.1.html).  
-filetree that i'll be using find on:
 ## option 1: `-ipath pattern`
 the `-ipath` option finds all files such that the path of the file matches the pattern passed after `-path`, case insensitive.
 ```
