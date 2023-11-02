@@ -1,5 +1,5 @@
 # part 1: bugs 🐞
-bug: `ArrayExamples reversed`  
+bug: `ArrayExamples reversed`  returns an array full of zeroes instead. this is because instead of copying from the given array (`arr`) to the empty array (`newArray`), we copy from the empty array to the given array (resulting in copying over a bunch of zeroes) and return the zeroed out array `arr`. to fix this, we copy from `arr` to `newArray` and return `newArray`.
 failure inducing input:
 ```
   @Test
