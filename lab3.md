@@ -41,6 +41,7 @@ static int[] reversed(int[] arr) {
     return newArray;
   }
 ```
+changed it from copying from the given array (`arr`) to the empty array (`newArray`) to copying from `arr` to `newArray`, and am now returning `newArray`. 
 # part 2: researching `find` 🔎
 for all of these examples, i just used the [man page](https://man7.org/linux/man-pages/man1/find.1.html).  
 ## option 1: `-ipath pattern`
