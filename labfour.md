@@ -1,22 +1,6 @@
 # part 1: bugs 🐞
-bug: `ArrayExamples reversed`  returns an array full of zeroes instead of the reversed array. this is because instead of copying from the given array (`arr`) to the empty array (`newArray`), we copy from the empty array to the given array (resulting in copying over a bunch of zeroes) and return the zeroed out array `arr`. to fix this, we copy from `arr` to `newArray` and return `newArray`.  
-failure inducing input:
-```
-  @Test
-  public void testReversed1() {
-    int[] input1 = {1, 2, 3};
-    assertArrayEquals(new int[]{3, 2, 1}, ArrayExamples.reversed(input1));
-  }
-```
-non-failure inducing input:
-```
-  @Test
-  public void testReversed2() {
-    int[] input1 = { };
-    assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
-  }
-```
-symptom:
+
+keys pressed: ssh cs15lfa23@ieng6 <tab> to autofill the address (ieng6.ucsd.edu), <enter> to execute the command    
 ![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/ba885a09-240c-44c7-8f11-3e6160b2ef66)
 
 bug:
