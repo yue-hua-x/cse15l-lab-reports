@@ -17,7 +17,7 @@ non-failure inducing input:
   }
 ```
 symptom:
-![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/c7923d78-6530-45dc-a4a6-fa2826b5e42b)
+![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/ba885a09-240c-44c7-8f11-3e6160b2ef66)
 
 bug:
 ```
