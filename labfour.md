@@ -1,7 +1,6 @@
 # part 1: bugs 🐞
 
-keys pressed: ssh cs15lfa23@ieng6 <tab> to autofill the address (ieng6.ucsd.edu), <enter> to execute the command:
-![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/ba885a09-240c-44c7-8f11-3e6160b2ef66)
+![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/c7923d78-6530-45dc-a4a6-fa2826b5e42b)
 
 bug:
 ```
