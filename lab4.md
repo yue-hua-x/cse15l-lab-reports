@@ -1,6 +1,6 @@
 ## Logging into ieng6:  
 keys pressed: ssh cs15lfa23@ieng6 <tab> to autofill the address (ieng6.ucsd.edu), <enter> to execute the command  
-![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/ba885a09-240c-44c7-8f11-3e6160b2ef66)
+![image](./1.png)
 ## Cloning the repository:
 keys pressed: git clone <ctrl + shift + v> to paste in the address, <enter> to execute the command  
 ![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/1458985d-6eea-4d2d-aa04-c335ba886dd9)
