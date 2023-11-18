@@ -1,6 +1,6 @@
 1. Logging into ieng6:  
    keys pressed: ssh cs15lfa23@ieng6 <tab> to autofill the address (ieng6.ucsd.edu), <enter> to execute the command  
-   ![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/ba885a09-240c-44c7-8f11-3e6160b2ef66)
+   ![image](https://user-images.githubusercontent.com/146787492/283975330-ba885a09-240c-44c7-8f11-3e6160b2ef66.png)
 2. Cloning the repository:
    keys pressed: git clone <ctrl + shift + v> to paste in the address, <enter> to execute the command  
    ![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/1458985d-6eea-4d2d-aa04-c335ba886dd9)
@@ -20,3 +20,8 @@
 6. Committing and pushing the changes:
    keys pressed: git add L <tab> to add the changed file to the commit, git commit -m "yeehaw" to commit the changes locally, git push to push the changes to the GitHub repository.  
    ![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/4746c682-298a-4354-b1e5-313a4fe4b5c0)
+
+
+
+
+   https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/ba885a09-240c-44c7-8f11-3e6160b2ef66
