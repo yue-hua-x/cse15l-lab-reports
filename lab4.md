@@ -21,7 +21,3 @@ keys pressed: `bash ./t <tab> <enter>` to rerun the test script.  \
 keys pressed: `git add L <tab>` to add the changed file to the commit, `git commit -m "yeehaw"` to commit the changes locally, `git push` to push the changes to the GitHub repository.  \
 ![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/4746c682-298a-4354-b1e5-313a4fe4b5c0)
 
-
-
-
-https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/ba885a09-240c-44c7-8f11-3e6160b2ef66
