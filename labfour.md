@@ -1,5 +1,5 @@
 # part 1: bugs 🐞
-
+let's write some words:
 ![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/c7923d78-6530-45dc-a4a6-fa2826b5e42b)
 
 bug:
