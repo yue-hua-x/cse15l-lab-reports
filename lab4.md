@@ -1,5 +1,5 @@
 ## Logging into ieng6:  
-keys pressed: `ssh cs15lfa23@ieng6 <tab>` to autofill the address (ieng6.ucsd.edu), `<enter>` to execute the command  
+keys pressed: `ssh cs15lfa23hg@ieng6 <tab>` to autofill the address (ieng6.ucsd.edu), `<enter>` to execute the command  
 ![image](./1.png)
 ## Cloning the repository:
 keys pressed: `git clone <ctrl + shift + v>` to paste in the address, `<enter> `to execute the command  
@@ -7,7 +7,7 @@ keys pressed: `git clone <ctrl + shift + v>` to paste in the address, `<enter> `
 
 ## Running the tests:
 keys pressed: `cd lab7 <enter> `to move to the new directory, `bash ./t <tab> <enter>` to run the testing script  
-![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/52c87c76-f0c9-45ef-81da-b737b9fa335c)
+![image](https://github.com/yue-hua-x/cse15l-lab-reports/assets/146787492/cec6867c-8019-4076-bd55-d1c050f0cb91)
 
 ## Editing the code file:
 keys pressed: `vim L <tab> . <tab> <enter>` to autofill the `ListExamples.java` file, by some stroke of luck my cursor ended up exactly where I needed to edit so `<ctrl  + home>` to go to the beginning of the file and `<ctrl + end> <up> <up> <up> <up> <up> <up> we r2 :wq <enter>` to navigate to the required location, replace the 1 with a 2, save, and exit the file.  
